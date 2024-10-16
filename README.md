@@ -8,4 +8,4 @@
  - CNN 내 layer 추가, CNN kernel_size 및 stride 변화를 주었고 상세 설명은 pdf에 하였습니다.
    
 ### v2- video output
-![https://github.com/kimmyeongjune/reinforcement_learning-HW2/blob/master/v2_video/car_racing_v2_30%2C000_first.gif]
+![https://github.com/kimmyeongjune/reinforcement_learning-HW2/blob/master/v2_video/car_racing_v2_30%2C000_first.gif?raw=true]
