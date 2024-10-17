@@ -10,3 +10,13 @@
    
 ### v2- video output
 ![Video](https://github.com/kimmyeongjune/reinforcement_learning-HW2/blob/master/v2_video/car_racing_v2_30%2C000_first.gif?raw=true)
+
+추가로 95200step을 더 학습 시켜서 평균적으로 return이 650정도에 달했고, 학습 parameter는 다음과 같습니다.
+            - lr=0.0001,
+            - epsilon=1.0,
+            - epsilon_min=0.05,
+            - gamma=0.99,
+            - batch_size=32,
+            - warmup_steps=5000,
+            - buffer_size=int(1e5),
+            - target_update_interval=5000
