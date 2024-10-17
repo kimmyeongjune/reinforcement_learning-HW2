@@ -22,4 +22,7 @@
  - target_update_interval=5000
  epsilon decay만 진행하고 gamma는 건들이지 않았으며, 장기보상에 더 집중하도록 훈련을 진행하였습니다.
 ![추가학습 video](https://github.com/kimmyeongjune/reinforcement_learning-HW2/blob/master/car_racing_result_v2_95200%2B.gif)
+### 2
 ![추가학습 video2](https://github.com/kimmyeongjune/reinforcement_learning-HW2/blob/master/car_racing_result_v2_95200%2B_second.gif)
+### 3
+![추가학습 video3](https://github.com/kimmyeongjune/reinforcement_learning-HW2/blob/master/car_racing_result_v2_95200%2B_third.gif)
